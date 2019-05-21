@@ -4,10 +4,12 @@ Hello, this is a test document for this folder to check how it works!
 
 Public class A(){
 
+  A(){}
 
-public static void main(args[] String){
+  A(String x){}
 
- System.out.println("This is a java file")
+  A(String x,int y){} 
 
- }
-}
+  public static void main(args[] String){
+    System.out.println("This is a java file")
+}}
