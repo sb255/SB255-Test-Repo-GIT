@@ -1,6 +1,6 @@
-#Hello, this is a read me file# </br>
+# Hello, this is a read me file </br>
 
 ---------------------------------------------------------------------------------------------
 
 
-#we will discuss about adding contents to the file#
+# we will discuss about adding contents to the file
