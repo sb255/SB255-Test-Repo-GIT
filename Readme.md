@@ -1,6 +1,6 @@
 # Hello, this is a read me file </br>
 
-![alt text](Pictures/Pic 1.png "Image added")
+![alt text](Pictures/Pic.png "Image added")
 
 ---------------------------------------------------------------------------------------------
 
