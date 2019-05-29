@@ -1,6 +1,6 @@
 # Hello, this is a read me file </br>
 
-![Alt text] (./blob/master/Pictures/Pic%201.png?raw=true "Source code")
+![picture] (Pictures/Pic%201.png)
 
 ---------------------------------------------------------------------------------------------
 
