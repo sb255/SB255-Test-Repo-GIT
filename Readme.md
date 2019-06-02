@@ -1,5 +1,4 @@
 # README file for the repository!!  </br>
-## This file is added by a branch!!! </br>
 
 ![alt text](Pictures/Pic.png "Image added") </br>
 
