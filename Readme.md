@@ -72,3 +72,9 @@ public class BubbleSortAlgo {
 
 
 ---------------------------------------------------------------------------------------------
+
+## Tables:
+
+Sorting Mehtod | best case | worst case | average case
+--- | --- | --- | ---
+Bubble sort | | | 
