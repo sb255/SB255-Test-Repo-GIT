@@ -73,8 +73,8 @@ public class BubbleSortAlgo {
 
 ---------------------------------------------------------------------------------------------
 
-## Time Complexity:
+## Tables:
 
-Sorting Algorithm | Best Case | Worst Case | Average Case
+Sorting Mehtod | best case | worst case | average case
 --- | --- | --- | ---
-Linear Search| | | 
+Bubble sort | | | 
