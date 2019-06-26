@@ -1,5 +1,4 @@
 # README file for the repository!!  </br>
-## Updated
 
 ![alt text](Pictures/Pic.png "Image added") </br>
 
