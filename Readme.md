@@ -68,8 +68,8 @@ public class BubbleSortAlgo {
 
 | Sorting Method of Algorithm | Best Case     | Avg case        | Worst Case    |
 | :---: | :--- | :---: | :---:  |
-| Bubble Sort Algorithm | [Program]() | [Program]() | [Program]() |
-| Merge Sort Algorithm | [Program]() | [Program]() | [Program]() |
+| Bubble Sort Algorithm | Program Link |  |  |
+| Merge Sort Algorithm |  |  |  |
 
 
 ---------------------------------------------------------------------------------------------
