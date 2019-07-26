@@ -10,7 +10,7 @@
 
 </br>
 
-```
+```java
 public class A {
     public static void main(String args[]){
         for(int i=0; i<10; i++){
@@ -28,7 +28,7 @@ public class A {
 
 </br>
 
-```
+```java
 public class BubbleSortAlgo {
 
 	public static void main(String[] args) {
@@ -66,10 +66,10 @@ public class BubbleSortAlgo {
 
 ## Runtime efficiency of the sorting methods!!
 
-| Sorting Method  | Best Case     | Avg case        | Worst Case    |
-| --------------- | ------------- | --------------- | ------------  |
-| Bubble Sort     |               |                 |               |
-| Merge Sort      |               |                 |               |
+| Sorting Method of Algorithm | Best Case     | Avg case        | Worst Case    |
+| :---: | :--- | :---: | :---:  |
+| Bubble Sort Algorithm | [Program]() | [Program]() | [Program]() |
+| Merge Sort Algorithm | [Program]() | [Program]() | [Program]() |
 
 
 ---------------------------------------------------------------------------------------------
